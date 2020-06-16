@@ -1,6 +1,6 @@
 #Email-Bomber
 
-Toni > t.me/xanlrbk  
+Toni > t.me/cityxan
 
 - Support Gmail
 - Support Yahoo
