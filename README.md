@@ -1,6 +1,6 @@
 #Email-Bomber
 
-Toni > DWM 
+Toni > t.me/xanlrbk  
 
 - Support Gmail
 - Support Yahoo
@@ -27,4 +27,4 @@ amount to send: recommended 100 - 500
 You need to enable less secure apps on Gmail and Yahoo
 
 
-t.me/amjadmbs Telegram for qst!
+t.me/xanlrbk Telegram for qst!
